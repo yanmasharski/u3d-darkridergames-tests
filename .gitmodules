@@ -1,0 +1,6 @@
+[submodule "Assets/DarkRiderGames"]
+	path = Assets/DarkRiderGames
+	url = git@github.com:yanmasharski/u3d-darkridergames.git
+[submodule "Assets/Unify"]
+	path = Assets/Unify
+	url = git@github.com:yanmasharski/unify.git
